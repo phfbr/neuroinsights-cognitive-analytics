@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+.vscode/
+Thumbs.db
+Desktop.ini
+
+# Dados brutos disponíveis no CDC/NHANES
+dados/brutos/
