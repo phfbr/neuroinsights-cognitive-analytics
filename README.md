@@ -108,19 +108,19 @@ Esses instrumentos exploram diferentes aspectos da cognição, incluindo memóri
 
 O dashboard NeuroInsights possui três páginas interativas.
 
-### Página 1 — Visão Geral
+### Página 1 - Visão Geral
 
 Apresenta os principais indicadores da amostra, a distribuição dos participantes e a disponibilidade das avaliações cognitivas.
 
 ![Dashboard - Visão Geral](docs/imagens/01-visao-geral.png)
 
-### Página 2 — Desempenho Cognitivo
+### Página 2 - Desempenho Cognitivo
 
 Explora pontuações, estatísticas descritivas, distribuições e diferenças entre grupos demográficos.
 
 ![Dashboard - Desempenho Cognitivo](docs/imagens/02-desempenho-cognitivo.png)
 
-### Página 3 — Análise por Teste
+### Página 3 - Análise por Teste
 
 Apresenta indicadores específicos de cada instrumento, perfil cognitivo e insights dinâmicos.
 
